@@ -7,4 +7,11 @@ h1 {
 }
 body{
     background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.link{
+    color:cyan;
+    font-size: 20px;
 }
