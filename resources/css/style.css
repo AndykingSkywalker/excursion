@@ -28,3 +28,9 @@ h3{
     font-size: 21px;
     font-weight: lighter;
 }
+
+.footer{
+    text-align: right;
+    color:gray;
+    font-size: 21px;
+}
