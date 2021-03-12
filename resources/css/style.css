@@ -5,6 +5,7 @@ h1 {
     color: white;
     text-align: center;
 }
+
 body{
     background-color: black;
     text-align: center;
@@ -14,4 +15,16 @@ body{
 .link{
     color:cyan;
     font-size: 20px;
+}
+
+h2{
+    font-weight: 300;
+    color:white;
+    font-size: 42px;
+}
+
+h3{
+    color:gray;
+    font-size: 21px;
+    font-weight: lighter;
 }
